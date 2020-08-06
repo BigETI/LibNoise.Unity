@@ -1,8 +1,18 @@
 # LibNoise.Unity
 
-The main repository for LibNoise.Unity is currently maintained by
-[Ricardo J. Méndez](https://github.com/ricardojmendez). Pull requests
+The main repository for [LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) is currently maintained by
+[Ricardo J. Méndez](https://github.com/ricardojmendez). Pull requests there
 are welcome.
+
+This fork has been created by [Ethem Kurt](https://github.com/BigETI) to support UPM (Unity Package Manager).
+
+## Installation
+
+1. Open the `Package Manager` window in Unity
+2. Hit the plus sign at the top left corner
+3. Hit `Add package from git URL...`
+4. Copy `https://github.com/BigETI/LibNoise.Unity.git` and paste it into the text field.
+5. Hit "Add"
 
 ## License
 

@@ -1,0 +1,14 @@
+{
+    "name": "com.ricardojmendez.libnoise.unity",
+    "version": "1.0.0",
+    "displayName": "LibNoise.Unity",
+    "description": "A Unity port of LibNoise, which is maintained by Ricardo J. Méndez.",
+    "dependencies": {},
+    "keywords": [
+        "translator"
+    ],
+    "author": {
+        "name": "Ricardo J. Méndez",
+        "url": "https://github.com/ricardojmendez"
+    }
+}
