@@ -5,7 +5,20 @@
     "description": "A Unity port of LibNoise, which is maintained by Ricardo J. Méndez. Package definitions have been created by Ethem Kurt.",
     "dependencies": {},
     "keywords": [
-        "translator"
+        "bollow",
+        "checker",
+        "const",
+        "cylinders",
+        "libnoise",
+        "libnoise.unity",
+        "noise",
+        "perlin",
+        "rand",
+        "random",
+        "ridgedmultifractal",
+        "spheres",
+        "unity",
+        "voronoi"
     ],
     "author": {
         "name": "Ricardo J. Méndez",
