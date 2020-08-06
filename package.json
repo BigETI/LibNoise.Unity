@@ -2,7 +2,7 @@
     "name": "com.ricardojmendez.libnoise.unity",
     "version": "1.0.0",
     "displayName": "LibNoise.Unity",
-    "description": "A Unity port of LibNoise, which is maintained by Ricardo J. Méndez.",
+    "description": "A Unity port of LibNoise, which is maintained by Ricardo J. Méndez. Package definitions have been created by Ethem Kurt.",
     "dependencies": {},
     "keywords": [
         "translator"
